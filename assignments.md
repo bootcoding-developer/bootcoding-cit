@@ -94,7 +94,7 @@
 ### Loops Assignments
 ---
 
-1) WAP to display the even and odd number's sum between 1 to n numbers.
+1) WAP to display the even and odd number between 1 to n numbers.
 
    `Input number of terms` : 10
 
@@ -115,8 +115,8 @@
 
    `Sum of Series upto 5 terms` : 2.283334
 
-3) WAP to print Palindrome number
-    
+3) WAP to print Palindrome Number
+
 ### Array Assignments
 
 
